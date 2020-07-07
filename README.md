@@ -11,6 +11,6 @@ In this project, we will learn how to build a pipeline that can be used within a
 * Matplotlib
 * cv2, OpenCV's implementation of [Haar feature-based cascade classifiers](https://docs.opencv.org/trunk/d7/d8b/tutorial_py_face_detection.html)
 * [VGG-16](https://neurohive.io/en/popular-networks/vgg16/)
-* [ResNet50[(https://www.mathworks.com/help/deeplearning/ref/resnet50.html)
+* [ResNet50](https://www.mathworks.com/help/deeplearning/ref/resnet50.html)
 
 
