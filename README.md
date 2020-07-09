@@ -27,7 +27,7 @@ The original dataset used for training is stored in Amazon S3 buckets. Please do
 
 # Sample Output:
 
-[image](https://github.com/dw6ja/DogBreed_CNN/blob/master/image_readme/1.jpg)
+![image](https://github.com/dw6ja/DogBreed_CNN/blob/master/image_readme/1.jpg)
 
 
 # Tech stack:
