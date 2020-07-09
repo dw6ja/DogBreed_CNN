@@ -1,7 +1,9 @@
 # Project Overview
 
-In this project, we will learn how to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. Given an image of a dog, our algorithm will identify an estimate of the canine’s breed. If supplied an image of a human, the code will identify the resembling dog breed.
+In this project, we will attemp to build a pipeline that can be used within a web or mobile app to process real-world, user-supplied images. 
+The main goal is to construct an image classifier that can differentiate dog's breeds. The model will accept input from either dog or human image; the model will output predictions of dog's breed if the image is detected to be a dog, and will output predictions of most resembling dog's breed if the image is detected to be a human.
 
+## Sample Output
 
 ## Tech stack:
 
